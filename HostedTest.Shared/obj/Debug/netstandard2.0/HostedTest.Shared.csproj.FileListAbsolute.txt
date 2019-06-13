@@ -1,0 +1,9 @@
+C:\Users\marss\source\repos\HostedTest\HostedTest.Shared\bin\Debug\netstandard2.0\HostedTest.Shared.deps.json
+C:\Users\marss\source\repos\HostedTest\HostedTest.Shared\bin\Debug\netstandard2.0\HostedTest.Shared.dll
+C:\Users\marss\source\repos\HostedTest\HostedTest.Shared\bin\Debug\netstandard2.0\HostedTest.Shared.pdb
+C:\Users\marss\source\repos\HostedTest\HostedTest.Shared\obj\Debug\netstandard2.0\HostedTest.Shared.csprojAssemblyReference.cache
+C:\Users\marss\source\repos\HostedTest\HostedTest.Shared\obj\Debug\netstandard2.0\HostedTest.Shared.csproj.CoreCompileInputs.cache
+C:\Users\marss\source\repos\HostedTest\HostedTest.Shared\obj\Debug\netstandard2.0\HostedTest.Shared.AssemblyInfoInputs.cache
+C:\Users\marss\source\repos\HostedTest\HostedTest.Shared\obj\Debug\netstandard2.0\HostedTest.Shared.AssemblyInfo.cs
+C:\Users\marss\source\repos\HostedTest\HostedTest.Shared\obj\Debug\netstandard2.0\HostedTest.Shared.dll
+C:\Users\marss\source\repos\HostedTest\HostedTest.Shared\obj\Debug\netstandard2.0\HostedTest.Shared.pdb
